@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1099ebb-61db-4cf2-b6d3-ea9657562557" name="Changes" comment="" />
+    <list default="true" id="d1099ebb-61db-4cf2-b6d3-ea9657562557" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/target/test-classes/data/configuration.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoPageObjects/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoPageObjects/CheckOutCompletePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoPageObjects/CheckOutInformationPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoPageObjects/CheckOutOverviewPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoPageObjects/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoPageObjects/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoPageObjects/ProductPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoPageObjects/ProductsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoPageObjects/YourCartPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoTests/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoTests/BuyAllProductsTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoTests/BuyFromProductPageTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoTests/BuyFromProductsPageTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoTests/LoginFailedTestsWithDDT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoTests/LoginTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoTests/MenuTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoTests/PaymentTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoTests/RemoveTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/saucedemoTests/YourInformationPageErrorsTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/utils/Configuration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/utils/PropertiesConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/utils/Utils.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
