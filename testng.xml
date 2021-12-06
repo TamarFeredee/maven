@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Tests" parallel="classes" >
+        <classes>
+            <class name="tests.saucedemoTests.BuyAllProductsTests"/>
+            <class name="tests.saucedemoTests.BuyFromProductPageTests"/>
+            <class name="tests.saucedemoTests.BuyFromProductsPageTests"/>
+            <class name="tests.saucedemoTests.LoginFailedTestsWithDDT"/>
+            <class name="tests.saucedemoTests.LoginTests"/>
+            <class name="tests.saucedemoTests.MenuTests"/>
+            <class name="tests.saucedemoTests.RemoveTests"/>
+            <class name="tests.saucedemoTests.YourInformationPageErrorsTests"/>
+            <class name="tests.saucedemoTests.PaymentTests"/>
+        </classes>
+    </test> <!-- Test -->
+</suite>
